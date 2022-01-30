@@ -21,7 +21,7 @@ docker exec -it jenkins-docker-container cat var/jenkins_home/secrets/initialAdm
 ```
 * Check ```jenkins-docker-container``` docker container is running:```docker container ls``` 
 
-3. Provide username, password etc.
+3. Provide username, password, install plugins etc..
 
 
 ### How to Use: 
