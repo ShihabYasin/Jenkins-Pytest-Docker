@@ -1,2 +1,2 @@
 # Jenkins-Study
-This repo studies Jenkins with sample project setup.
+This is a python project to study Jenkins CI/CD.
