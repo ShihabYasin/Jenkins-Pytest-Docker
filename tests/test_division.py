@@ -2,8 +2,13 @@ from src.calculator import divide
 import pytest
 
 
+# def test_divide():
+#     result = divide(3, 2)
+#     assert result == 1.5
+
+
 def test_divide():
-    result = divide(3, 2)
+    result = divide (3, 2)
     assert result == 1.5
 
 
